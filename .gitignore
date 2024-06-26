@@ -1,0 +1,5 @@
+.ipynb_checkpoints/
+Pipfile.lock
+__pycache__/
+s.vim
+.lvimrc
